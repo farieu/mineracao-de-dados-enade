@@ -1,4 +1,4 @@
-# Mapeamento de Desempenho de Concluintes de Computação no Nordeste
+# Mapeamento de Desempenho de Concluintes de Computação no Nordeste 📊🗃️
 
 > **Educational Data Mining (EDM) • K‑Means Clustering • ENADE & Censo Superior • Nordeste/Brasil**
 
@@ -9,10 +9,6 @@
 ## Visão Geral
 
 Este projeto aplica **Mineração de Dados Educacionais (EDM)** para investigar o desempenho de concluintes dos cursos de Computação na região Nordeste do Brasil (ENADE 2014‑2017‑2021). Utilizamos **K‑Means** para identificar perfis latentes a partir de variáveis socioeconômicas, institucionais e acadêmicas, seguindo o processo **KDD**. Os insights gerados podem subsidiar políticas públicas de inclusão e qualidade no ensino superior.
-
-<div align="center">
-<img src="docs/banner_edm.png" width="80%" alt="Banner K-Means"/>
-</div>
 
 ## Objetivos
 
