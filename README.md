@@ -1,14 +1,11 @@
 # Mapeamento de Desempenho de Concluintes de Computação no Nordeste 📊🗃️
 
 > **Educational Data Mining (EDM) • K‑Means Clustering • ENADE & Censo Superior • Nordeste/Brasil**
-
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19867014)
-
 ---
 
 ## Visão Geral
 
-Este projeto aplica **Mineração de Dados Educacionais (EDM)** para investigar o desempenho de concluintes dos cursos de Computação na região Nordeste do Brasil (ENADE 2014‑2017‑2021). Utilizamos **K‑Means** para identificar perfis latentes a partir de variáveis socioeconômicas, institucionais e acadêmicas, seguindo o processo **KDD**. Os insights gerados podem subsidiar políticas públicas de inclusão e qualidade no ensino superior.
+Este projeto aplica técnicas de **Mineração de Dados Educacionais** para investigar o desempenho de concluintes dos cursos de Computação na região Nordeste do Brasil (ENADE 2014‑2017‑2021). Utilizei o **K‑Means** para identificar perfis latentes a partir de variáveis socioeconômicas, institucionais e acadêmicas, seguindo o processo **KDD**. Os insights gerados podem subsidiar políticas públicas de inclusão e qualidade no ensino superior.
 
 ## Objetivos
 
@@ -107,19 +104,6 @@ Este projeto aplica **Mineração de Dados Educacionais (EDM)** para investigar 
    Rode `code/5. K-Means/[EDM] K-Means.ipynb` para gerar os clusters.
 4. **Visualização**
    Os gráficos finais são salvos em `docs/figures/`.
-
-> Você pode **abrir diretamente no GitHub Codespaces** através do botão no topo do README.
-
-## Contribuidores
-
-| Aluno                                   |  Contato                                                      |
-| --------------------------------------- | ------------------------------------------------------------- |
-| **Caio César Farias da Silva**          | [caio.fsilva@ufrpe.br](mailto:caio.fsilva@ufrpe.br)           |
-| **Tarcísio Barbosa da Costa**           | [tarcisio.bcosta@ufrpe.br](mailto:tarcisio.bcosta@ufrpe.br)   |
-| **Victor Henrique dos Santos Oliveira** | [victor.henriqued@ufrpe.br](mailto:victor.henriqued@ufrpe.br) |
-
-> Sinta‑se à vontade para abrir *issues* ou *pull requests* 💙
-
 ## Referências
 
 * Murphy, K. *Machine Learning: A Probabilistic Perspective*. MIT Press, 2012.
